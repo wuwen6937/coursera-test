@@ -1,0 +1,22 @@
+
+
+.nav{
+	text-align: center;
+	background-color: white;
+}
+
+li {
+	border: 1px solid black;
+}
+
+.col-xs-12 {
+	height: 1000px;
+	background-color:grey;
+	overflow: auto;
+	width: 100%;
+}
+
+p {
+	font-size: 1.5em
+}
+
