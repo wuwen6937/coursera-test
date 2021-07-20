@@ -9,9 +9,8 @@ li {
 	border: 1px solid black;
 }
 
-.col-xs-12 {
-	height: 1000px;
-	background-color:grey;
+.col-md-4 {
+	height: auto;
 	overflow: auto;
 	width: 100%;
 }
@@ -19,4 +18,41 @@ li {
 p {
 	font-size: 1.5em
 }
+
+ #Chicken {
+ 	position: relative;
+ 	float: right;
+ 	background-color: yellow;
+ 	width: 100%;
+ 	border: 1px solid black;
+ }
+
+ #Beef {
+ 	position: relative;
+ 	float: right;
+ 	background-color: red;
+ 	width: 100%;
+ 	border: 1px solid black;
+  }
+#Fried_Sushi {
+	position: relative;
+	float: right;
+	background-color: white;
+	width: 100%;
+	border: 1px solid black;
+}
+
+.text {
+	
+	overflow: auto;
+	width: 100%;
+	background-color: rgba(0,0,0,.5);
+    color: #fff;
+}
+
+hr {
+	width: 50%
+}
+
+
 
